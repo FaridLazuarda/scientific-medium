@@ -1,37 +1,15 @@
-# Tugas Tulisan Medium
-Tugas Seleksi Ca-IRK 2018 - Menulis Medium
+Name  : Muhammad Farid Adilazuarda/13518040
+Title : Probability Distribution Concepts in Generative Adversarial Networks (GANs)
+Link  : https://medium.com/@faridadilazuarda29/probability-distribution-concepts-in-generative-adversarial-networks-gans-bf93cb22fb72
+My Opinion on Writing :
 
-## Task
-Buatlah suatu tulisan ilmiah mengenai ilmu-ilmu yang kalian dapatkan dari mata kuliah <b>TBFO (Teori Bahasa Formal dan Otomata) ATAU dari mata kuliah ProbStat (Probabilitas dan Statistika)</b>.
+So, i'm a kind of student who practice deliberate learning using <i>Feynman Technique<i> on my study.
+<i>Feynman Technique<i> is a type of learning that we are pushed to learn by teaching someone, 
+for example a 10 year old kid, or write about the subject that we learn. So, how is this type of learning 
+correlated to writing skills? 
 
-Tulisan yang kalian buat dapat berupa pemanfaatan salah satu ilmu dari mata kuliah tersebut, dapat juga berupa analisis mendalam dari salah satu teknik/tool yang diajarkan pada mata kuliah tersebut, dapat juga berupa suatu kembangan dari teknik/tool yang sudah ada.
-
-(contoh judul tulisan: Penggunaan <i>Pushdown Automata</i> dalam Mengestimasi Pertumbuhan Penduduk)
-
-## Spesifikasi Tugas
-1. Buatlah tulisan pada [Medium](https://medium.com) dengan ketentuan sebagai berikut:
-    - Panjang tulisan minimal 7 <i>minutes read</i>.
-    - Gunakan gambar / grafik / equation untuk memperjelas.
-    - Tata bahasa formal dan <i>to the point</i>.
-
-2. Fork juga Repository ini, dan ubah README.md ini menjadi berisikan:
-    - Nama / NIM
-    - Judul Tulisan
-    - Link Medium Tulisan
-    - Pendapat kalian terhadap mengapa kemampuan untuk menulis itu penting
-
-## Teknis Pengumpulan
-Untuk pengumpulan, lakukan:
-1. Lakukan <i>Pull Request</i> Repository yang kalian Fork kembali ke Repository ini dengan format: Nama kalian - NIM.
-2. <i>Personal Chat</i> Leonardo W. (kontak ada di grup Ca-IRK 2018), menyatakan tulisan telah selesai dan harap dinilai.
-
-## Bonus
-- Pada tulisan medium dan README yang dibuat, gunakan bahasa Inggris yang baik dan benar.
-
-## Points Granted
-Max Point: 900<br>
-Bonus: + 200
-
-<br>
-====================================================================<br>
-<i>*Segala pertanyaan dapat ditanyakan melalui LINE Group Ca-IRK 2018 atau dapat melalui pc langsung.</i>
+Writing needs us to understand on the subjects of what we're write. So, it means that by writing,
+ we are also learning, or even mastering that subject. Then, why writing skill is very important? 
+ To me, that is because when we're writing on some subject, we're not just mastering the subject 
+ for ourselves, but also letting people know, and share the information to them about the topics 
+ that we're writing on. And also, <i>sharing is caring<i>.
