@@ -1,6 +1,6 @@
 Name  : Muhammad Farid Adilazuarda/13518040
 Title : Probability Distribution Concepts in Generative Adversarial Networks (GANs)
-Link  : https://medium.com/@faridadilazuarda29/probability-distribution-concepts-in-generative-adversarial-networks-gans-bf93cb22fb72
+Link  : 
 My Opinion on Writing :
 
 So, i'm a kind of student who practice deliberate learning using <i>Feynman Technique<i> on my study.
